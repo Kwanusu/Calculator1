@@ -28,3 +28,5 @@ language = 'Pithon'
 corrected = language[0] + 'y' + language[2:]
 print(corrected)
 
+mylist = [1, 2, 3, 4]
+print(mylist[1])
